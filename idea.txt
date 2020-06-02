@@ -1,1 +1,0 @@
-A small businessman from Italy wants to open an Italian Restaurant in Toronto. He cannot decide in which neighbourhood he should open it. As such he has to collect required data for deciding on a neighbourhood so that he can attract customers and maximize profit.
